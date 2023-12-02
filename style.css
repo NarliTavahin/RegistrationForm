@@ -1,0 +1,22 @@
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+label {
+    font-weight: 600;
+    color: #666;
+    margin: 8px 0 !important;
+}
+body {
+  background-color: rgb(247, 247, 237) !important;
+}
+
+.container {
+    margin: 100px auto !important;
+    height: 720px !important;
+    background-color: rgb(247, 247, 237);
+    box-shadow: 0 0 10px 5px;
+}
+
